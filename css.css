@@ -116,7 +116,6 @@ body {
 
 img{
     padding-right: 107.3px;
-    width: 100%;
 }
 
 .rodape{
@@ -159,6 +158,7 @@ img{
     margin-top: 300px;
     top: 0;
     transform: translateX(-50%);
+    width: 100%;
   }
 
 @media (max-width: 768px) {

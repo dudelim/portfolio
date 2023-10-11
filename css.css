@@ -158,7 +158,7 @@ img{
     margin-top: 300px;
     top: 0;
     transform: translateX(-50%);
-    width: 100%;
+
   }
 
 @media (max-width: 768px) {
@@ -183,4 +183,5 @@ img{
         height: 50%; 
     }
 }
+
 
